@@ -19,7 +19,7 @@ div#linkedin 	{float:right;
 .facebook		{float:left;
 }
 #pic1 			{
-					background: url(../images/IMG_0539.jpg) center no-repeat; 
+					background: url(/images/IMG_0539.jpg) center no-repeat; 
 					width: 300px;
 					border-radius: 50%;
 					height: 300px;
@@ -32,7 +32,7 @@ h5 				{position: fixed; bottom:10px; left: 15px;}
 
 nav {margin-bottom: 2em; padding: 5em; border-bottom: solid red 10px; font: black;}
 .twlogo {text-align: center;}
- body {background-image: url(../images/cubes.jpg) ;
+ body {background-image: url(/images/cubes.jpg) ;
  		background-size: cover;}
 
 .view {color: white;} 		
