@@ -22,6 +22,7 @@ div#linkedin 	{float:right;
 					background: url(/Portfolio/images/IMG_0539.jpg) center no-repeat; 
 					width: 300px;
 					border-radius: 50%;
+					border: 7px solid white;
 					height: 300px;
 					background-size: cover;
 					margin-left: 40%;
