@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["dcfNk"]); }
+
+__d('HideInlineHelp',['DynamicIconSelector','SelectorDeprecated'],function a(b,c,d,e,f,g){if(c.__markCompiled)c.__markCompiled();var h=[],i={registerMenu:function(j,k,l){h[j]=k.setValue.bind(k,l);},registerLegacyMenu:function(j,k,l){h[j]=function(){c('SelectorDeprecated').setSelected(k,l);c('DynamicIconSelector').swapIcon(k);};},registerAsyncPopoverMenu:function(j,k,l){h[j]=function(){var m=k.getMenu();m.setValue(l);};},triggerUndo:function(j){h[j]();}};f.exports=i;},null);
+__d("XBizResourcesPageController",["XController"],function a(b,c,d,e,f,g){c.__markCompiled&&c.__markCompiled();f.exports=c("XController").create("\/business\/resources\/",{});},null);
